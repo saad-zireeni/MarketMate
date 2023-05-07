@@ -1,0 +1,844 @@
+{
+  "products": [
+    {
+      "name": "Carrots",
+      "price": 1.99,
+      "description": "Fresh, organic carrots.",
+      "image": "https://purepng.com/public/uploads/large/purepng.com-carrotscarrotvegetablesfreshdeliciousefoodhealthycarrots-481521740717jmglq.png",
+      "category": "vegetables"
+    },
+    {
+      "name": "Broccoli",
+      "price": 2.49,
+      "description": "Tender broccoli florets.",
+      "image": "https://cdn.shopify.com/s/files/1/0107/2408/1722/products/broccoli_f30f6fce-ceab-4676-9c89-7197f33942c2.jpg?v=1596182148",
+      "category": "vegetables"
+    },
+    {
+      "name": "Spinach",
+      "price": 1.99,
+      "description": "Nutrient-packed spinach leaves.",
+      "image": "https://www.pngmart.com/files/5/Spinach-Transparent-PNG.png",
+      "category": "vegetables"
+    },
+    {
+      "name": "Tomatoes",
+      "price": 2.99,
+      "description": "Fresh, juicy vine-ripened tomatoes.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Tomato_je.jpg/220px-Tomato_je.jpg",
+      "category": "vegetables"
+    },
+    {
+      "name": "Potatoes",
+      "price": 1.49,
+      "description": "Versatile and delicious potatoes.",
+      "image": "https://pngfolio.com/images/all_img/1638796606potato-png.png",
+      "category": "vegetables"
+    },
+    {
+      "name": "Carrots",
+      "price": 1.99,
+      "description": "Fresh, organic carrots.",
+      "image": "https://purepng.com/public/uploads/large/purepng.com-carrotscarrotvegetablesfreshdeliciousefoodhealthycarrots-481521740717jmglq.png",
+      "category": "vegetables"
+    },
+    {
+      "name": "Broccoli",
+      "price": 2.49,
+      "description": "Tender broccoli florets.",
+      "image": "https://cdn.shopify.com/s/files/1/0107/2408/1722/products/broccoli_f30f6fce-ceab-4676-9c89-7197f33942c2.jpg?v=1596182148",
+      "category": "vegetables"
+    },
+    {
+      "name": "Spinach",
+      "price": 1.99,
+      "description": "Nutrient-packed spinach leaves.",
+      "image": "https://www.pngmart.com/files/5/Spinach-Transparent-PNG.png",
+      "category": "vegetables"
+    },
+    {
+      "name": "Tomatoes",
+      "price": 2.99,
+      "description": "Fresh, juicy vine-ripened tomatoes.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Tomato_je.jpg/220px-Tomato_je.jpg",
+      "category": "vegetables"
+    },
+    {
+      "name": "Potatoes",
+      "price": 1.49,
+      "description": "Versatile and delicious potatoes.",
+      "image": "https://pngfolio.com/images/all_img/1638796606potato-png.png",
+      "category": "vegetables"
+    },
+    {
+      "name": "Carrots",
+      "price": 1.99,
+      "description": "Fresh, organic carrots.",
+      "image": "https://purepng.com/public/uploads/large/purepng.com-carrotscarrotvegetablesfreshdeliciousefoodhealthycarrots-481521740717jmglq.png",
+      "category": "vegetables"
+    },
+    {
+      "name": "Broccoli",
+      "price": 2.49,
+      "description": "Tender broccoli florets.",
+      "image": "https://cdn.shopify.com/s/files/1/0107/2408/1722/products/broccoli_f30f6fce-ceab-4676-9c89-7197f33942c2.jpg?v=1596182148",
+      "category": "vegetables"
+    },
+    {
+      "name": "Spinach",
+      "price": 1.99,
+      "description": "Nutrient-packed spinach leaves.",
+      "image": "https://www.pngmart.com/files/5/Spinach-Transparent-PNG.png",
+      "category": "vegetables"
+    },
+    {
+      "name": "Tomatoes",
+      "price": 2.99,
+      "description": "Fresh, juicy vine-ripened tomatoes.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Tomato_je.jpg/220px-Tomato_je.jpg",
+      "category": "vegetables"
+    },
+    {
+      "name": "Potatoes",
+      "price": 1.49,
+      "description": "Versatile and delicious potatoes.",
+      "image": "https://pngfolio.com/images/all_img/1638796606potato-png.png",
+      "category": "vegetables"
+    },
+    {
+      "name": "Carrots",
+      "price": 1.99,
+      "description": "Fresh, organic carrots.",
+      "image": "https://purepng.com/public/uploads/large/purepng.com-carrotscarrotvegetablesfreshdeliciousefoodhealthycarrots-481521740717jmglq.png",
+      "category": "vegetables"
+    },
+    {
+      "name": "Broccoli",
+      "price": 2.49,
+      "description": "Tender broccoli florets.",
+      "image": "https://cdn.shopify.com/s/files/1/0107/2408/1722/products/broccoli_f30f6fce-ceab-4676-9c89-7197f33942c2.jpg?v=1596182148",
+      "category": "vegetables"
+    },
+    {
+      "name": "Spinach",
+      "price": 1.99,
+      "description": "Nutrient-packed spinach leaves.",
+      "image": "https://www.pngmart.com/files/5/Spinach-Transparent-PNG.png",
+      "category": "vegetables"
+    },
+    {
+      "name": "Tomatoes",
+      "price": 2.99,
+      "description": "Fresh, juicy vine-ripened tomatoes.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Tomato_je.jpg/220px-Tomato_je.jpg",
+      "category": "vegetables"
+    },
+    {
+      "name": "Potatoes",
+      "price": 1.49,
+      "description": "Versatile and delicious potatoes.",
+      "image": "https://pngfolio.com/images/all_img/1638796606potato-png.png",
+      "category": "vegetables"
+    },
+    {
+      "name": "Apples",
+      "price": 1.99,
+      "description": "Crisp and sweet apples.",
+      "image": "https://freepngimg.com/thumb/apple_fruit/24632-1-apple-fruit-transparent.png",
+      "category": "fruits"
+    },
+    {
+      "name": "Bananas",
+      "price": 0.99,
+      "description": "Healthy and tasty bananas.",
+      "image": "http://clipart-library.com/images_k/banana-transparent-png/banana-transparent-png-14.png",
+      "category": "fruits"
+    },
+    {
+      "name": "Oranges",
+      "price": 1.49,
+      "description": "Juicy and refreshing oranges.",
+      "image": "https://purepng.com/public/uploads/large/purepng.com-orangesorangefruitfoodtastydeliciousorangecolor-3315225826354ezzx.png",
+      "category": "fruits"
+    },
+    {
+      "name": "Grapes",
+      "price": 3.99,
+      "description": "Sweet and flavorful grapes.",
+      "image": "https://www.freepnglogos.com/uploads/grapes-png/grapes-dimidwa-12.png",
+      "category": "fruits"
+    },
+    {
+      "name": "Pineapple",
+      "price": 2.99,
+      "description": "Tropical and juicy pineapple.",
+      "image": "https://media.istockphoto.com/id/1292778589/vector/pineapple-and-wedges.jpg?s=612x612&w=0&k=20&c=xLEtfHBRdALof_GxTN-9j63nSVc-w1_XCZ-smFsKAq4=",
+      "category": "fruits"
+    },
+    {
+      "name": "Apples",
+      "price": 1.99,
+      "description": "Crisp and sweet apples.",
+      "image": "https://freepngimg.com/thumb/apple_fruit/24632-1-apple-fruit-transparent.png",
+      "category": "fruits"
+    },
+    {
+      "name": "Bananas",
+      "price": 0.99,
+      "description": "Healthy and tasty bananas.",
+      "image": "http://clipart-library.com/images_k/banana-transparent-png/banana-transparent-png-14.png",
+      "category": "fruits"
+    },
+    {
+      "name": "Oranges",
+      "price": 1.49,
+      "description": "Juicy and refreshing oranges.",
+      "image": "https://purepng.com/public/uploads/large/purepng.com-orangesorangefruitfoodtastydeliciousorangecolor-3315225826354ezzx.png",
+      "category": "fruits"
+    },
+    {
+      "name": "Grapes",
+      "price": 3.99,
+      "description": "Sweet and flavorful grapes.",
+      "image": "https://www.freepnglogos.com/uploads/grapes-png/grapes-dimidwa-12.png",
+      "category": "fruits"
+    },
+    {
+      "name": "Pineapple",
+      "price": 2.99,
+      "description": "Tropical and juicy pineapple.",
+      "image": "https://media.istockphoto.com/id/1292778589/vector/pineapple-and-wedges.jpg?s=612x612&w=0&k=20&c=xLEtfHBRdALof_GxTN-9j63nSVc-w1_XCZ-smFsKAq4=",
+      "category": "fruits"
+    },
+    {
+      "name": "Apples",
+      "price": 1.99,
+      "description": "Crisp and sweet apples.",
+      "image": "https://freepngimg.com/thumb/apple_fruit/24632-1-apple-fruit-transparent.png",
+      "category": "fruits"
+    },
+    {
+      "name": "Bananas",
+      "price": 0.99,
+      "description": "Healthy and tasty bananas.",
+      "image": "http://clipart-library.com/images_k/banana-transparent-png/banana-transparent-png-14.png",
+      "category": "fruits"
+    },
+    {
+      "name": "Oranges",
+      "price": 1.49,
+      "description": "Juicy and refreshing oranges.",
+      "image": "https://purepng.com/public/uploads/large/purepng.com-orangesorangefruitfoodtastydeliciousorangecolor-3315225826354ezzx.png",
+      "category": "fruits"
+    },
+    {
+      "name": "Grapes",
+      "price": 3.99,
+      "description": "Sweet and flavorful grapes.",
+      "image": "https://www.freepnglogos.com/uploads/grapes-png/grapes-dimidwa-12.png",
+      "category": "fruits"
+    },
+    {
+      "name": "Pineapple",
+      "price": 2.99,
+      "description": "Tropical and juicy pineapple.",
+      "image": "https://media.istockphoto.com/id/1292778589/vector/pineapple-and-wedges.jpg?s=612x612&w=0&k=20&c=xLEtfHBRdALof_GxTN-9j63nSVc-w1_XCZ-smFsKAq4=",
+      "category": "fruits"
+    },
+    {
+      "name": "Apples",
+      "price": 1.99,
+      "description": "Crisp and sweet apples.",
+      "image": "https://freepngimg.com/thumb/apple_fruit/24632-1-apple-fruit-transparent.png",
+      "category": "fruits"
+    },
+    {
+      "name": "Bananas",
+      "price": 0.99,
+      "description": "Healthy and tasty bananas.",
+      "image": "http://clipart-library.com/images_k/banana-transparent-png/banana-transparent-png-14.png",
+      "category": "fruits"
+    },
+    {
+      "name": "Oranges",
+      "price": 1.49,
+      "description": "Juicy and refreshing oranges.",
+      "image": "https://purepng.com/public/uploads/large/purepng.com-orangesorangefruitfoodtastydeliciousorangecolor-3315225826354ezzx.png",
+      "category": "fruits"
+    },
+    {
+      "name": "Grapes",
+      "price": 3.99,
+      "description": "Sweet and flavorful grapes.",
+      "image": "https://www.freepnglogos.com/uploads/grapes-png/grapes-dimidwa-12.png",
+      "category": "fruits"
+    },
+    {
+      "name": "Pineapple",
+      "price": 2.99,
+      "description": "Tropical and juicy pineapple.",
+      "image": "https://media.istockphoto.com/id/1292778589/vector/pineapple-and-wedges.jpg?s=612x612&w=0&k=20&c=xLEtfHBRdALof_GxTN-9j63nSVc-w1_XCZ-smFsKAq4=",
+      "category": "fruits"
+    },
+    {
+      "name": "Beef",
+      "price": 8.99,
+      "description": "Premium beef cuts.",
+      "image": "https://d2t3trus7wwxyy.cloudfront.net/catalog/product/8/0/80236432_bf_beef_ribeye_steak.jpg",
+      "category": "meats"
+    },
+    {
+      "name": "Chicken",
+      "price": 6.99,
+      "description": "Fresh and tender boneless chicken breast.",
+      "image": "https://www.bigbasket.com/media/uploads/p/m/800369946_1-sardar-a-pure-meat-shopsec-15-chicken-breast-boneless.jpg.",
+      "category": "meats"
+    },
+    {
+      "name": "Pork",
+      "price": 7.49,
+      "description": "Flavorful and versatile pork.",
+      "image": "https://media.istockphoto.com/id/178148993/photo/fillet-of-pork.jpg?s=612x612&w=0&k=20&c=_3KPUuvhDt-S10wxYlqmF4y1-nSWd-Zd_4OfX6J6ar8=",
+      "category": "meats"
+    },
+    {
+      "name": "Salmon",
+      "price": 12.99,
+      "description": "Fresh and healthy salmon fillets.",
+      "image": "https://cdn.shopify.com/s/files/1/0336/7501/products/fresh-salmon-fillets_cdfc7fca-ca0d-47eb-8f77-a4bec3dfd684_grande.jpg?v=1495034021",
+      "category": "meats"
+    },
+    {
+      "name": "Shrimp",
+      "price": 9.99,
+      "description": "Tasty and easy-to-cook shrimp.",
+      "image": "https://www.kindpng.com/picc/m/118-1185496_shrimp-download-free-png-cooked-tail-on-shrimp.png",
+      "category": "meats"
+    },
+    {
+      "name": "Beef",
+      "price": 8.99,
+      "description": "Premium beef cuts.",
+      "image": "https://d2t3trus7wwxyy.cloudfront.net/catalog/product/8/0/80236432_bf_beef_ribeye_steak.jpg",
+      "category": "meats"
+    },
+    {
+      "name": "Chicken",
+      "price": 6.99,
+      "description": "Fresh and tender boneless chicken breast.",
+      "image": "https://www.bigbasket.com/media/uploads/p/m/800369946_1-sardar-a-pure-meat-shopsec-15-chicken-breast-boneless.jpg.",
+      "category": "meats"
+    },
+    {
+      "name": "Pork",
+      "price": 7.49,
+      "description": "Flavorful and versatile pork.",
+      "image": "https://media.istockphoto.com/id/178148993/photo/fillet-of-pork.jpg?s=612x612&w=0&k=20&c=_3KPUuvhDt-S10wxYlqmF4y1-nSWd-Zd_4OfX6J6ar8=",
+      "category": "meats"
+    },
+    {
+      "name": "Salmon",
+      "price": 12.99,
+      "description": "Fresh and healthy salmon fillets.",
+      "image": "https://cdn.shopify.com/s/files/1/0336/7501/products/fresh-salmon-fillets_cdfc7fca-ca0d-47eb-8f77-a4bec3dfd684_grande.jpg?v=1495034021",
+      "category": "meats"
+    },
+    {
+      "name": "Shrimp",
+      "price": 9.99,
+      "description": "Tasty and easy-to-cook shrimp.",
+      "image": "https://www.kindpng.com/picc/m/118-1185496_shrimp-download-free-png-cooked-tail-on-shrimp.png",
+      "category": "meats"
+    },
+    {
+      "name": "Beef",
+      "price": 8.99,
+      "description": "Premium beef cuts.",
+      "image": "https://d2t3trus7wwxyy.cloudfront.net/catalog/product/8/0/80236432_bf_beef_ribeye_steak.jpg",
+      "category": "meats"
+    },
+    {
+      "name": "Chicken",
+      "price": 6.99,
+      "description": "Fresh and tender boneless chicken breast.",
+      "image": "https://www.bigbasket.com/media/uploads/p/m/800369946_1-sardar-a-pure-meat-shopsec-15-chicken-breast-boneless.jpg.",
+      "category": "meats"
+    },
+    {
+      "name": "Pork",
+      "price": 7.49,
+      "description": "Flavorful and versatile pork.",
+      "image": "https://media.istockphoto.com/id/178148993/photo/fillet-of-pork.jpg?s=612x612&w=0&k=20&c=_3KPUuvhDt-S10wxYlqmF4y1-nSWd-Zd_4OfX6J6ar8=",
+      "category": "meats"
+    },
+    {
+      "name": "Salmon",
+      "price": 12.99,
+      "description": "Fresh and healthy salmon fillets.",
+      "image": "https://cdn.shopify.com/s/files/1/0336/7501/products/fresh-salmon-fillets_cdfc7fca-ca0d-47eb-8f77-a4bec3dfd684_grande.jpg?v=1495034021",
+      "category": "meats"
+    },
+    {
+      "name": "Shrimp",
+      "price": 9.99,
+      "description": "Tasty and easy-to-cook shrimp.",
+      "image": "https://www.kindpng.com/picc/m/118-1185496_shrimp-download-free-png-cooked-tail-on-shrimp.png",
+      "category": "meats"
+    },
+    {
+      "name": "Beef",
+      "price": 8.99,
+      "description": "Premium beef cuts.",
+      "image": "https://d2t3trus7wwxyy.cloudfront.net/catalog/product/8/0/80236432_bf_beef_ribeye_steak.jpg",
+      "category": "meats"
+    },
+    {
+      "name": "Chicken",
+      "price": 6.99,
+      "description": "Fresh and tender boneless chicken breast.",
+      "image": "https://www.bigbasket.com/media/uploads/p/m/800369946_1-sardar-a-pure-meat-shopsec-15-chicken-breast-boneless.jpg.",
+      "category": "meats"
+    },
+    {
+      "name": "Pork",
+      "price": 7.49,
+      "description": "Flavorful and versatile pork.",
+      "image": "https://media.istockphoto.com/id/178148993/photo/fillet-of-pork.jpg?s=612x612&w=0&k=20&c=_3KPUuvhDt-S10wxYlqmF4y1-nSWd-Zd_4OfX6J6ar8=",
+      "category": "meats"
+    },
+    {
+      "name": "Salmon",
+      "price": 12.99,
+      "description": "Fresh and healthy salmon fillets.",
+      "image": "https://cdn.shopify.com/s/files/1/0336/7501/products/fresh-salmon-fillets_cdfc7fca-ca0d-47eb-8f77-a4bec3dfd684_grande.jpg?v=1495034021",
+      "category": "meats"
+    },
+    {
+      "name": "Shrimp",
+      "price": 9.99,
+      "description": "Tasty and easy-to-cook shrimp.",
+      "image": "https://www.kindpng.com/picc/m/118-1185496_shrimp-download-free-png-cooked-tail-on-shrimp.png",
+      "category": "meats"
+    },
+    {
+      "name": "Milk",
+      "price": 2.99,
+      "description": "Fresh and creamy milk.",
+      "image": "https://static.vecteezy.com/system/resources/previews/005/851/027/non_2x/illustration-of-a-milk-carton-isolated-on-a-white-background-healthy-organic-dairy-product-cartoon-vector.jpg",
+      "category": "dairy"
+    },
+    {
+      "name": "Cheese",
+      "price": 4.99,
+      "description": "Delicious and versatile cheese.",
+      "image": "https://img.freepik.com/premium-photo/piece-cheese-isolated-white-background_38678-6213.jpg",
+      "category": "dairy"
+    },
+    {
+      "name": "Yogurt",
+      "price": 1.99,
+      "description": "Healthy and flavorful yogurt.",
+      "image": "https://static.vecteezy.com/system/resources/previews/002/284/976/original/flat-illustration-yoghurt-cream-icon-colored-yogurt-cup-with-a-spoon-isolated-on-white-background-element-can-be-used-for-cream-yogurt-custard-design-concept-in-cartoon-style-vector.jpg",
+      "category": "dairy"
+    },
+    {
+      "name": "Butter",
+      "price": 3.49,
+      "description": "Rich and creamy butter.",
+      "image": "https://media.istockphoto.com/id/900458286/photo/piece-of-butter-in-metal-box-on-white-background.jpg?s=170667a&w=0&k=20&c=3yHfFwx6l5oA9qYXn5X60WJEcAOXOs8fCkAEiSa5aj8=",
+      "category": "dairy"
+    },
+    {
+      "name": "Eggs",
+      "price": 2.49,
+      "description": "Fresh and nutritious eggs.",
+      "image": "https://img.freepik.com/free-photo/three-fresh-organic-raw-eggs-isolated-white-surface_114579-43677.jpg?w=2000",
+      "category": "dairy"
+    },
+    {
+      "name": "Milk",
+      "price": 2.99,
+      "description": "Fresh and creamy milk.",
+      "image": "https://static.vecteezy.com/system/resources/previews/005/851/027/non_2x/illustration-of-a-milk-carton-isolated-on-a-white-background-healthy-organic-dairy-product-cartoon-vector.jpg",
+      "category": "dairy"
+    },
+    {
+      "name": "Cheese",
+      "price": 4.99,
+      "description": "Delicious and versatile cheese.",
+      "image": "https://img.freepik.com/premium-photo/piece-cheese-isolated-white-background_38678-6213.jpg",
+      "category": "dairy"
+    },
+    {
+      "name": "Yogurt",
+      "price": 1.99,
+      "description": "Healthy and flavorful yogurt.",
+      "image": "https://static.vecteezy.com/system/resources/previews/002/284/976/original/flat-illustration-yoghurt-cream-icon-colored-yogurt-cup-with-a-spoon-isolated-on-white-background-element-can-be-used-for-cream-yogurt-custard-design-concept-in-cartoon-style-vector.jpg",
+      "category": "dairy"
+    },
+    {
+      "name": "Butter",
+      "price": 3.49,
+      "description": "Rich and creamy butter.",
+      "image": "https://media.istockphoto.com/id/900458286/photo/piece-of-butter-in-metal-box-on-white-background.jpg?s=170667a&w=0&k=20&c=3yHfFwx6l5oA9qYXn5X60WJEcAOXOs8fCkAEiSa5aj8=",
+      "category": "dairy"
+    },
+    {
+      "name": "Eggs",
+      "price": 2.49,
+      "description": "Fresh and nutritious eggs.",
+      "image": "https://img.freepik.com/free-photo/three-fresh-organic-raw-eggs-isolated-white-surface_114579-43677.jpg?w=2000",
+      "category": "dairy"
+    },
+    {
+      "name": "Milk",
+      "price": 2.99,
+      "description": "Fresh and creamy milk.",
+      "image": "https://static.vecteezy.com/system/resources/previews/005/851/027/non_2x/illustration-of-a-milk-carton-isolated-on-a-white-background-healthy-organic-dairy-product-cartoon-vector.jpg",
+      "category": "dairy"
+    },
+    {
+      "name": "Cheese",
+      "price": 4.99,
+      "description": "Delicious and versatile cheese.",
+      "image": "https://img.freepik.com/premium-photo/piece-cheese-isolated-white-background_38678-6213.jpg",
+      "category": "dairy"
+    },
+    {
+      "name": "Yogurt",
+      "price": 1.99,
+      "description": "Healthy and flavorful yogurt.",
+      "image": "https://static.vecteezy.com/system/resources/previews/002/284/976/original/flat-illustration-yoghurt-cream-icon-colored-yogurt-cup-with-a-spoon-isolated-on-white-background-element-can-be-used-for-cream-yogurt-custard-design-concept-in-cartoon-style-vector.jpg",
+      "category": "dairy"
+    },
+    {
+      "name": "Butter",
+      "price": 3.49,
+      "description": "Rich and creamy butter.",
+      "image": "https://media.istockphoto.com/id/900458286/photo/piece-of-butter-in-metal-box-on-white-background.jpg?s=170667a&w=0&k=20&c=3yHfFwx6l5oA9qYXn5X60WJEcAOXOs8fCkAEiSa5aj8=",
+      "category": "dairy"
+    },
+    {
+      "name": "Eggs",
+      "price": 2.49,
+      "description": "Fresh and nutritious eggs.",
+      "image": "https://img.freepik.com/free-photo/three-fresh-organic-raw-eggs-isolated-white-surface_114579-43677.jpg?w=2000",
+      "category": "dairy"
+    },
+    {
+      "name": "Milk",
+      "price": 2.99,
+      "description": "Fresh and creamy milk.",
+      "image": "https://static.vecteezy.com/system/resources/previews/005/851/027/non_2x/illustration-of-a-milk-carton-isolated-on-a-white-background-healthy-organic-dairy-product-cartoon-vector.jpg",
+      "category": "dairy"
+    },
+    {
+      "name": "Cheese",
+      "price": 4.99,
+      "description": "Delicious and versatile cheese.",
+      "image": "https://img.freepik.com/premium-photo/piece-cheese-isolated-white-background_38678-6213.jpg",
+      "category": "dairy"
+    },
+    {
+      "name": "Yogurt",
+      "price": 1.99,
+      "description": "Healthy and flavorful yogurt.",
+      "image": "https://static.vecteezy.com/system/resources/previews/002/284/976/original/flat-illustration-yoghurt-cream-icon-colored-yogurt-cup-with-a-spoon-isolated-on-white-background-element-can-be-used-for-cream-yogurt-custard-design-concept-in-cartoon-style-vector.jpg",
+      "category": "dairy"
+    },
+    {
+      "name": "Butter",
+      "price": 3.49,
+      "description": "Rich and creamy butter.",
+      "image": "https://media.istockphoto.com/id/900458286/photo/piece-of-butter-in-metal-box-on-white-background.jpg?s=170667a&w=0&k=20&c=3yHfFwx6l5oA9qYXn5X60WJEcAOXOs8fCkAEiSa5aj8=",
+      "category": "dairy"
+    },
+    {
+      "name": "Eggs",
+      "price": 2.49,
+      "description": "Fresh and nutritious eggs.",
+      "image": "https://img.freepik.com/free-photo/three-fresh-organic-raw-eggs-isolated-white-surface_114579-43677.jpg?w=2000",
+      "category": "dairy"
+    },
+    {
+      "name": "Bread",
+      "price": 2.99,
+      "description": "Freshly baked bread.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzBKN19ANBSmANE1-LBo4GlwurQhYa6zSDwA&usqp=CAU",
+      "category": "bakery"
+    },
+    {
+      "name": "Bagels",
+      "price": 4.49,
+      "description": "Soft and chewy bagels.",
+      "image": "https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX20160034.jpg",
+      "category": "bakery"
+    },
+    {
+      "name": "Croissants",
+      "price": 3.99,
+      "description": "Flaky and buttery croissants.",
+      "image": "https://img.freepik.com/premium-photo/2-croissants-isolated-white-background-breakfast-snacks-bakery_319982-837.jpg?w=2000",
+      "category": "bakery"
+    },
+    {
+      "name": "Donuts",
+      "price": 1.99,
+      "description": "Sweet and indulgent donuts.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPdt9V8_jNaJOyr3k_2_LlfMhDPwzyFnuZMA&usqp=CAU",
+      "category": "bakery"
+    },
+    {
+      "name": "Cakes",
+      "price": 19.99,
+      "description": "Decadent and delicious cakes.",
+      "image": "https://grandbaby-cakes.com/wp-content/uploads/2020/03/Carrot-Cake-10-500x375.jpg",
+      "category": "bakery"
+    },
+    {
+      "name": "Bread",
+      "price": 2.99,
+      "description": "Freshly baked bread.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzBKN19ANBSmANE1-LBo4GlwurQhYa6zSDwA&usqp=CAU",
+      "category": "bakery"
+    },
+    {
+      "name": "Bagels",
+      "price": 4.49,
+      "description": "Soft and chewy bagels.",
+      "image": "https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX20160034.jpg",
+      "category": "bakery"
+    },
+    {
+      "name": "Croissants",
+      "price": 3.99,
+      "description": "Flaky and buttery croissants.",
+      "image": "https://img.freepik.com/premium-photo/2-croissants-isolated-white-background-breakfast-snacks-bakery_319982-837.jpg?w=2000",
+      "category": "bakery"
+    },
+    {
+      "name": "Donuts",
+      "price": 1.99,
+      "description": "Sweet and indulgent donuts.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPdt9V8_jNaJOyr3k_2_LlfMhDPwzyFnuZMA&usqp=CAU",
+      "category": "bakery"
+    },
+    {
+      "name": "Cakes",
+      "price": 19.99,
+      "description": "Decadent and delicious cakes.",
+      "image": "https://grandbaby-cakes.com/wp-content/uploads/2020/03/Carrot-Cake-10-500x375.jpg",
+      "category": "bakery"
+    },
+    {
+      "name": "Bread",
+      "price": 2.99,
+      "description": "Freshly baked bread.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzBKN19ANBSmANE1-LBo4GlwurQhYa6zSDwA&usqp=CAU",
+      "category": "bakery"
+    },
+    {
+      "name": "Bagels",
+      "price": 4.49,
+      "description": "Soft and chewy bagels.",
+      "image": "https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX20160034.jpg",
+      "category": "bakery"
+    },
+    {
+      "name": "Croissants",
+      "price": 3.99,
+      "description": "Flaky and buttery croissants.",
+      "image": "https://img.freepik.com/premium-photo/2-croissants-isolated-white-background-breakfast-snacks-bakery_319982-837.jpg?w=2000",
+      "category": "bakery"
+    },
+    {
+      "name": "Donuts",
+      "price": 1.99,
+      "description": "Sweet and indulgent donuts.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPdt9V8_jNaJOyr3k_2_LlfMhDPwzyFnuZMA&usqp=CAU",
+      "category": "bakery"
+    },
+    {
+      "name": "Cakes",
+      "price": 19.99,
+      "description": "Decadent and delicious cakes.",
+      "image": "https://grandbaby-cakes.com/wp-content/uploads/2020/03/Carrot-Cake-10-500x375.jpg",
+      "category": "bakery"
+    },
+    {
+      "name": "Bread",
+      "price": 2.99,
+      "description": "Freshly baked bread.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzBKN19ANBSmANE1-LBo4GlwurQhYa6zSDwA&usqp=CAU",
+      "category": "bakery"
+    },
+    {
+      "name": "Bagels",
+      "price": 4.49,
+      "description": "Soft and chewy bagels.",
+      "image": "https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX20160034.jpg",
+      "category": "bakery"
+    },
+    {
+      "name": "Croissants",
+      "price": 3.99,
+      "description": "Flaky and buttery croissants.",
+      "image": "https://img.freepik.com/premium-photo/2-croissants-isolated-white-background-breakfast-snacks-bakery_319982-837.jpg?w=2000",
+      "category": "bakery"
+    },
+    {
+      "name": "Donuts",
+      "price": 1.99,
+      "description": "Sweet and indulgent donuts.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPdt9V8_jNaJOyr3k_2_LlfMhDPwzyFnuZMA&usqp=CAU",
+      "category": "bakery"
+    },
+    {
+      "name": "Cakes",
+      "price": 19.99,
+      "description": "Decadent and delicious cakes.",
+      "image": "https://grandbaby-cakes.com/wp-content/uploads/2020/03/Carrot-Cake-10-500x375.jpg",
+      "category": "bakery"
+    },
+    {
+      "name": "Ice Cream",
+      "price": 4.99,
+      "description": "Creamy and refreshing ice cream.",
+      "image": "https://rare-gallery.com/uploads/posts/807515-Sweets-Ice-cream-Blueberries-Berry-White-background.jpg",
+      "category": "frozen"
+    },
+    {
+      "name": "Frozen Vegetables",
+      "price": 2.99,
+      "description": "Convenient and healthy frozen vegetables.",
+      "image": "https://img.freepik.com/free-photo/assortment-frozen-food-table_23-2148969440.jpg?w=360",
+      "category": "frozen"
+    },
+    {
+      "name": "Frozen Fruits",
+      "price": 3.99,
+      "description": "Healthy and tasty frozen fruits.",
+      "image": "https://www.superhealthykids.com/wp-content/uploads/2020/09/Frozen-Fruit-in-Bagssml.jpg",
+      "category": "frozen"
+    },
+    {
+      "name": "Frozen Pizza",
+      "price": 5.99,
+      "description": "Delicious and easy-to-cook frozen pizza.",
+      "image": "https://cdn.shopify.com/s/files/1/0575/4624/4294/products/freschetta-thin-crust-garden-veggie-pizza.png?v=1637740630",
+      "category": "frozen"
+    },
+    {
+      "name": "Frozen Dinners",
+      "price": 4.49,
+      "description": "Convenient and tasty frozen dinners.",
+      "image": "https://www.mariecallendersmeals.com/sites/g/files/qyyrlu306/files/images/products/salisbury-steak-80697.png",
+      "category": "frozen"
+    },
+    {
+      "name": "Ice Cream",
+      "price": 4.99,
+      "description": "Creamy and refreshing ice cream.",
+      "image": "https://rare-gallery.com/uploads/posts/807515-Sweets-Ice-cream-Blueberries-Berry-White-background.jpg",
+      "category": "frozen"
+    },
+    {
+      "name": "Frozen Vegetables",
+      "price": 2.99,
+      "description": "Convenient and healthy frozen vegetables.",
+      "image": "https://img.freepik.com/free-photo/assortment-frozen-food-table_23-2148969440.jpg?w=360",
+      "category": "frozen"
+    },
+    {
+      "name": "Frozen Fruits",
+      "price": 3.99,
+      "description": "Healthy and tasty frozen fruits.",
+      "image": "https://www.superhealthykids.com/wp-content/uploads/2020/09/Frozen-Fruit-in-Bagssml.jpg",
+      "category": "frozen"
+    },
+    {
+      "name": "Frozen Pizza",
+      "price": 5.99,
+      "description": "Delicious and easy-to-cook frozen pizza.",
+      "image": "https://cdn.shopify.com/s/files/1/0575/4624/4294/products/freschetta-thin-crust-garden-veggie-pizza.png?v=1637740630",
+      "category": "frozen"
+    },
+    {
+      "name": "Frozen Dinners",
+      "price": 4.49,
+      "description": "Convenient and tasty frozen dinners.",
+      "image": "https://www.mariecallendersmeals.com/sites/g/files/qyyrlu306/files/images/products/salisbury-steak-80697.png",
+      "category": "frozen"
+    },
+    {
+      "name": "Ice Cream",
+      "price": 4.99,
+      "description": "Creamy and refreshing ice cream.",
+      "image": "https://rare-gallery.com/uploads/posts/807515-Sweets-Ice-cream-Blueberries-Berry-White-background.jpg",
+      "category": "frozen"
+    },
+    {
+      "name": "Frozen Vegetables",
+      "price": 2.99,
+      "description": "Convenient and healthy frozen vegetables.",
+      "image": "https://img.freepik.com/free-photo/assortment-frozen-food-table_23-2148969440.jpg?w=360",
+      "category": "frozen"
+    },
+    {
+      "name": "Frozen Fruits",
+      "price": 3.99,
+      "description": "Healthy and tasty frozen fruits.",
+      "image": "https://www.superhealthykids.com/wp-content/uploads/2020/09/Frozen-Fruit-in-Bagssml.jpg",
+      "category": "frozen"
+    },
+    {
+      "name": "Frozen Pizza",
+      "price": 5.99,
+      "description": "Delicious and easy-to-cook frozen pizza.",
+      "image": "https://cdn.shopify.com/s/files/1/0575/4624/4294/products/freschetta-thin-crust-garden-veggie-pizza.png?v=1637740630",
+      "category": "frozen"
+    },
+    {
+      "name": "Frozen Dinners",
+      "price": 4.49,
+      "description": "Convenient and tasty frozen dinners.",
+      "image": "https://www.mariecallendersmeals.com/sites/g/files/qyyrlu306/files/images/products/salisbury-steak-80697.png",
+      "category": "frozen"
+    },
+    {
+      "name": "Ice Cream",
+      "price": 4.99,
+      "description": "Creamy and refreshing ice cream.",
+      "image": "https://rare-gallery.com/uploads/posts/807515-Sweets-Ice-cream-Blueberries-Berry-White-background.jpg",
+      "category": "frozen"
+    },
+    {
+      "name": "Frozen Vegetables",
+      "price": 2.99,
+      "description": "Convenient and healthy frozen vegetables.",
+      "image": "https://img.freepik.com/free-photo/assortment-frozen-food-table_23-2148969440.jpg?w=360",
+      "category": "frozen"
+    },
+    {
+      "name": "Frozen Fruits",
+      "price": 3.99,
+      "description": "Healthy and tasty frozen fruits.",
+      "image": "https://www.superhealthykids.com/wp-content/uploads/2020/09/Frozen-Fruit-in-Bagssml.jpg",
+      "category": "frozen"
+    },
+    {
+      "name": "Frozen Pizza",
+      "price": 5.99,
+      "description": "Delicious and easy-to-cook frozen pizza.",
+      "image": "https://cdn.shopify.com/s/files/1/0575/4624/4294/products/freschetta-thin-crust-garden-veggie-pizza.png?v=1637740630",
+      "category": "frozen"
+    },
+    {
+      "name": "Frozen Dinners",
+      "price": 4.49,
+      "description": "Convenient and tasty frozen dinners.",
+      "image": "https://www.mariecallendersmeals.com/sites/g/files/qyyrlu306/files/images/products/salisbury-steak-80697.png",
+      "category": "frozen"
+    }
+  ]
+}
