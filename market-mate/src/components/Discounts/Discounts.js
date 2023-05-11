@@ -15,6 +15,9 @@ const Discounts = () => {
           })
           .catch((error) => console.log(error));
       });
+      function handleClick(name, price){
+        console.log(name + " " + price);
+      }
 
   return (
     <>
@@ -24,23 +27,23 @@ const Discounts = () => {
     </h1>
     <div class="flex overflow-x-scroll pb-10 hide-scroll-bar">
       <div class="flex flex-nowrap lg:ml-40 md:ml-20 ml-10 ">
-        {ten.map((d, i) => (
-          <div className="w-64 h-96 bg-white border border-gray-200 rounded-md shadow-sm dark:bg-gray-800 dark:border-gray-700 p-2 mx-4">
-            <img className="rounded-t-md w-full h-48 object-cover" src={d.image} alt="" width="250" height="250" />
+        {ten.map((d) => (
+          <div className="w-64 h-96 bg-white border border-gray-200 rounded-md shadow-sm p-2 mx-4">
+            <img className="rounded-t-md w-full h-48 object-cover" src={d.image} alt="Discount image" width="250" height="250" />
             <div class="p-2 flex-1">
-              <h5 className="mb-1 text-base font-semibold tracking-tight text-gray-900 dark:text-black">
+              <h5 className="mb-1 text-lg text-black font-semibold tracking-tight">
                 {d.name}
               </h5>
-              <p className="mb-2 text-xs text-gray-700 dark:text-gray-400">
+              <p className="mb-2 text-base text-black">
                 {d.description}
               </p>
-              <p className="mb-3 font-normal text-xs text-gray-700 dark:text-gray-400">
+              <p className="mb-3 text-base text-black">
                 ${d.price}
               </p>
               <a
                 href="#"
-                className="inline-block px-2 py-1 text-xs font-medium text-center text-white bg-blue-700 rounded-md hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
-              >
+                className="inline-block px-2 py-1 text-xs font-medium text-center text-white cursor-pointer bg-amber-500 rounded-md hover:bg-black transition"
+                onClick={() => handleClick(d.name, d.price)}>
                 Add to Cart
               </a>
             </div>

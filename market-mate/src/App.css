@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+*{
+  font-family: 'Open Sans', sans-serif;
+}
+
+.button-shop {
+  background-color: black;
+}
+
+.button-shop:hover {
+  background-color: rgb(245 158 11 );
+  transition: 150ms;
+}
+

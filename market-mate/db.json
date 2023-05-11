@@ -3,6 +3,8 @@
     {
       "name": "Carrots",
       "price": 1.99,
+      "id": 1,
+      "count": 1,
       "description": "Fresh, organic carrots.",
       "image": "https://purepng.com/public/uploads/large/purepng.com-carrotscarrotvegetablesfreshdeliciousefoodhealthycarrots-481521740717jmglq.png",
       "category": "vegetables"
@@ -10,6 +12,8 @@
     {
       "name": "Broccoli",
       "price": 2.49,
+      "id": 2,
+      "count": 1,
       "description": "Tender broccoli florets.",
       "image": "https://cdn.shopify.com/s/files/1/0107/2408/1722/products/broccoli_f30f6fce-ceab-4676-9c89-7197f33942c2.jpg?v=1596182148",
       "category": "vegetables"
@@ -17,6 +21,8 @@
     {
       "name": "Spinach",
       "price": 1.99,
+      "id": 3,
+      "count": 1,
       "description": "Nutrient-packed spinach leaves.",
       "image": "https://www.pngmart.com/files/5/Spinach-Transparent-PNG.png",
       "category": "vegetables"
@@ -24,6 +30,8 @@
     {
       "name": "Tomatoes",
       "price": 2.99,
+      "id": 4,
+      "count": 1,
       "description": "Fresh, juicy vine-ripened tomatoes.",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Tomato_je.jpg/220px-Tomato_je.jpg",
       "category": "vegetables"
@@ -31,6 +39,8 @@
     {
       "name": "Potatoes",
       "price": 1.49,
+      "id": 5,
+      "count": 1,
       "description": "Versatile and delicious potatoes.",
       "image": "https://pngfolio.com/images/all_img/1638796606potato-png.png",
       "category": "vegetables"
@@ -38,6 +48,8 @@
     {
       "name": "Carrots",
       "price": 1.99,
+      "id": 6,
+      "count": 1,
       "description": "Fresh, organic carrots.",
       "image": "https://purepng.com/public/uploads/large/purepng.com-carrotscarrotvegetablesfreshdeliciousefoodhealthycarrots-481521740717jmglq.png",
       "category": "vegetables"
@@ -143,6 +155,8 @@
     {
       "name": "Apples",
       "price": 1.99,
+      "id": 7,
+      "count": 1,
       "description": "Crisp and sweet apples.",
       "image": "https://freepngimg.com/thumb/apple_fruit/24632-1-apple-fruit-transparent.png",
       "category": "fruits"
@@ -150,6 +164,8 @@
     {
       "name": "Bananas",
       "price": 0.99,
+      "id": 8,
+      "count": 1,
       "description": "Healthy and tasty bananas.",
       "image": "http://clipart-library.com/images_k/banana-transparent-png/banana-transparent-png-14.png",
       "category": "fruits"
@@ -157,6 +173,8 @@
     {
       "name": "Oranges",
       "price": 1.49,
+      "id": 9,
+      "count": 1,
       "description": "Juicy and refreshing oranges.",
       "image": "https://purepng.com/public/uploads/large/purepng.com-orangesorangefruitfoodtastydeliciousorangecolor-3315225826354ezzx.png",
       "category": "fruits"
@@ -283,6 +301,8 @@
     {
       "name": "Beef",
       "price": 8.99,
+      "id": 9,
+      "count": 1,
       "description": "Premium beef cuts.",
       "image": "https://d2t3trus7wwxyy.cloudfront.net/catalog/product/8/0/80236432_bf_beef_ribeye_steak.jpg",
       "category": "meats"
@@ -290,6 +310,8 @@
     {
       "name": "Chicken",
       "price": 6.99,
+      "id": 10,
+      "count": 1,
       "description": "Fresh and tender boneless chicken breast.",
       "image": "https://www.bigbasket.com/media/uploads/p/m/800369946_1-sardar-a-pure-meat-shopsec-15-chicken-breast-boneless.jpg.",
       "category": "meats"
@@ -297,12 +319,16 @@
     {
       "name": "Pork",
       "price": 7.49,
+      "id": 11,
+      "count": 1,
       "description": "Flavorful and versatile pork.",
       "image": "https://media.istockphoto.com/id/178148993/photo/fillet-of-pork.jpg?s=612x612&w=0&k=20&c=_3KPUuvhDt-S10wxYlqmF4y1-nSWd-Zd_4OfX6J6ar8=",
       "category": "meats"
     },
     {
       "name": "Salmon",
+      "id": 12,
+      "count": 1,
       "price": 12.99,
       "description": "Fresh and healthy salmon fillets.",
       "image": "https://cdn.shopify.com/s/files/1/0336/7501/products/fresh-salmon-fillets_cdfc7fca-ca0d-47eb-8f77-a4bec3dfd684_grande.jpg?v=1495034021",
@@ -563,12 +589,16 @@
     {
       "name": "Bread",
       "price": 2.99,
+      "id": 13,
+      "count": 1,
       "description": "Freshly baked bread.",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzBKN19ANBSmANE1-LBo4GlwurQhYa6zSDwA&usqp=CAU",
       "category": "bakery"
     },
     {
       "name": "Bagels",
+      "id": 14,
+      "count": 4,
       "price": 4.49,
       "description": "Soft and chewy bagels.",
       "image": "https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX20160034.jpg",
@@ -577,6 +607,8 @@
     {
       "name": "Croissants",
       "price": 3.99,
+      "id": 15,
+      "count": 1,
       "description": "Flaky and buttery croissants.",
       "image": "https://img.freepik.com/premium-photo/2-croissants-isolated-white-background-breakfast-snacks-bakery_319982-837.jpg?w=2000",
       "category": "bakery"
@@ -703,6 +735,8 @@
     {
       "name": "Ice Cream",
       "price": 4.99,
+      "id": 16,
+      "count": 1,
       "description": "Creamy and refreshing ice cream.",
       "image": "https://rare-gallery.com/uploads/posts/807515-Sweets-Ice-cream-Blueberries-Berry-White-background.jpg",
       "category": "frozen"
@@ -710,6 +744,8 @@
     {
       "name": "Frozen Vegetables",
       "price": 2.99,
+      "id": 17,
+      "count": 1,
       "description": "Convenient and healthy frozen vegetables.",
       "image": "https://img.freepik.com/free-photo/assortment-frozen-food-table_23-2148969440.jpg?w=360",
       "category": "frozen"
@@ -717,6 +753,8 @@
     {
       "name": "Frozen Fruits",
       "price": 3.99,
+      "id": 18,
+      "count": 1,
       "description": "Healthy and tasty frozen fruits.",
       "image": "https://www.superhealthykids.com/wp-content/uploads/2020/09/Frozen-Fruit-in-Bagssml.jpg",
       "category": "frozen"
@@ -724,6 +762,8 @@
     {
       "name": "Frozen Pizza",
       "price": 5.99,
+      "id": 19,
+      "count": 1,
       "description": "Delicious and easy-to-cook frozen pizza.",
       "image": "https://cdn.shopify.com/s/files/1/0575/4624/4294/products/freschetta-thin-crust-garden-veggie-pizza.png?v=1637740630",
       "category": "frozen"
